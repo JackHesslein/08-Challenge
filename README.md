@@ -8,3 +8,6 @@ node.js application that utilizes type script and javascript along with other np
 
 ## contributing
 Make it better
+
+## Use
+open an integrated terminal in the develop folder and run "npm i && npm run build && node dist/index.js"
